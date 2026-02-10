@@ -12,7 +12,7 @@ Professional Tone · Dark Theme
 </p>
 
 <h1 align="center" style="color:#fff;background:#18181b;margin-top:0;padding:24px 0 8px 0;">
-  Yonatan Charbel Cervantes Zavala
+  Yonatan Cervantes
 </h1>
 <h3 align="center" style="color:#e5e5e5;font-weight:400;">Desarrollador Web Fullstack</h3>
 <p align="center">
